@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Araç Karnesi</string>
+    <string name="live_fuel_prices_title">Güncel Akaryakıt Fiyatları</string>
+    <string name="refresh_fuel_prices_desc">Akaryakıt Fiyatlarını Yenile</string>
+    <string name="fuel_gasoline_short">Benzin</string>
+    <string name="fuel_diesel_short">Motorin</string>
+    <string name="fuel_lpg_short">LPG</string>
+    <string name="engine_step_default_title">3. Motor Seçenekleri *</string>
+    <string name="engine_modal_header_eyebrow">MOTOR SEÇENEKLERİ</string>
+    <string name="engine_missing_error">Lütfen motor seçeneği seçiniz (Boş bırakılamaz)</string>
+    <string name="engine_select_model_first_hint">Önce yukarıdan araç marka ve modelini seçiniz</string>
+</resources>
